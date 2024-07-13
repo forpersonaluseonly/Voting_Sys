@@ -1,5 +1,5 @@
 class MySQLConfig:
-    MYSQL_HOST = 'localhost'
-    MYSQL_USER = 'root'
-    MYSQL_PASSWORD = ''
-    MYSQL_DB = 'voting_sys'
+    MYSQL_HOST = 'sql12.freesqldatabase.com'
+    MYSQL_USER = 'sql12719511'
+    MYSQL_PASSWORD = 'T8xrvWijuh'
+    MYSQL_DB = 'sql12719511'
