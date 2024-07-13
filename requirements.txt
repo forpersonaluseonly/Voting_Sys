@@ -1,0 +1,6 @@
+Gunicorn
+Flask
+Flask-MySQLdb
+numpy
+Jinja2
+flask-socketio
